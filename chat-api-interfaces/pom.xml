@@ -72,6 +72,17 @@
             <groupId>cn.hutool</groupId>
             <artifactId>hutool-all</artifactId>
         </dependency>
+
+        <dependency>
+            <groupId>org.yjys.api</groupId>
+            <artifactId>chat-api-domain</artifactId>
+        </dependency>
+        <dependency>
+            <groupId>org.yjys.api</groupId>
+            <artifactId>chat-api-domain</artifactId>
+            <version>1.0-SNAPSHOT</version>
+            <scope>test</scope>
+        </dependency>
     </dependencies>
 
     <properties>
